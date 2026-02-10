@@ -45,3 +45,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 python src/dispatch_demo.py --out src/sample_data/sample_output.csv
+
+# Docker
+docker build -t dispatch-demo .
+docker run --rm dispatch-demo
