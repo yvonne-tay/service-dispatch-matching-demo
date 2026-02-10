@@ -1,0 +1,6 @@
+agent_id,skills,zone,is_available,queue_rank
+A01,body;foot,zone_1,TRUE,1
+A02,body,zone_1,TRUE,2
+A03,foot,zone_2,TRUE,3
+A04,body;foot,zone_2,FALSE,4
+A05,body,zone_3,TRUE,5
