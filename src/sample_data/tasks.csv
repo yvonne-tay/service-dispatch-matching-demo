@@ -1,0 +1,6 @@
+task_id,task_type,required_skill,zone,start_in_minutes,duration_minutes,is_confirmed
+T100,confirmed,body,zone_1,0,60,TRUE
+T101,planned,foot,zone_1,30,60,FALSE
+T102,confirmed,foot,zone_2,0,90,TRUE
+T103,planned,body,zone_3,45,60,FALSE
+T104,confirmed,body,zone_2,10,60,TRUE
